@@ -10,8 +10,8 @@ import (
 
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/cheekybits/is"
-	"github.com/graymeta/stow"
-	"github.com/graymeta/stow/test"
+	"github.com/vishalforcode/stow"
+	"github.com/vishalforcode/stow/test"
 )
 
 func TestStow(t *testing.T) {

@@ -6,7 +6,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/graymeta/stow"
+	"github.com/vishalforcode/stow"
 	"github.com/ncw/swift"
 )
 

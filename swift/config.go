@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/graymeta/stow"
+	"github.com/vishalforcode/stow"
 	"github.com/ncw/swift"
 )
 

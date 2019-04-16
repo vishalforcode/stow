@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/graymeta/stow"
+	"github.com/vishalforcode/stow"
 	"github.com/pkg/errors"
 	"gopkg.in/kothar/go-backblaze.v0"
 )

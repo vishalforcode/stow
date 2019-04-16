@@ -4,7 +4,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/graymeta/stow"
+	"github.com/vishalforcode/stow"
 	"github.com/ncw/swift"
 	"github.com/pkg/errors"
 )

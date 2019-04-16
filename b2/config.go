@@ -4,7 +4,7 @@ import (
 	"errors"
 	"net/url"
 
-	"github.com/graymeta/stow"
+	"github.com/vishalforcode/stow"
 	"gopkg.in/kothar/go-backblaze.v0"
 )
 
