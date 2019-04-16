@@ -121,6 +121,7 @@ func (c *container) Put(name string, r io.Reader, size int64, metadata map[strin
 		Key:      aws.String(name),   // Required
 		Body:     r,
 		Metadata: mdPrepped, // map[string]*string
+		ACL: mdPrepped["access"],
 	})
 
 	if err != nil {
